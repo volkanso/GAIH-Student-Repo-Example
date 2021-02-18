@@ -1,7 +1,7 @@
 
 # GAIH Student Repo Example
 ![](img/logo.png)
-https://github.com/volkanso/gaih-students-repo-example/blob/main/img/logo.png
+
 **Course Date:** DD.MM
 **Name:** volkan 
 **Surname:** karakaş
