@@ -1,6 +1,6 @@
 
 # GAIH Student Repo Example
-#[](img/logo.png)
+# [](img/logo.png)
 
 **Course Date:** DD.MM
 **Name:** volkan 
